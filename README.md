@@ -18,5 +18,5 @@ Useful for penetration testers, ethical hackers, and developers who need working
 
 ### 🔹 Clone the Repository
 ```bash
-git clone https://github.com/your-username/proxy-scraper-checker.git
+git clone https://github.com/ghostxkamal/Free-Proxy-Scraper-Checker-Tool-Python.git
 cd proxy-scraper-checker
