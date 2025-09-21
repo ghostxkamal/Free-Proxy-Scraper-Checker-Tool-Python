@@ -1,0 +1,62 @@
+# 🛠 User Manual - Ghost Proxy Scraper & Checker  
+
+## 🔹 Introduction  
+This tool is a Python-based Proxy Scraper & Checker developed by **GHOST x KAMAL** from **Bangladesh Cyber Troops**.  
+It can scrape fresh proxies (HTTP, HTTPS, SOCKS4, SOCKS5) from free online sources, test them in real-time, and save working proxies for penetration testing, secure browsing, or bug bounty projects.  
+
+---
+
+## 🔹 Requirements  
+- Python 3.8+  
+- pip (Python package manager)  
+- Linux / Windows / macOS / Termux supported  
+
+### Install dependencies  
+```bash
+pip install -r requirements.txt
+
+
+🔹 python3 proxytool.py
+
+🔹 Features
+
+🔥 Multi-threaded Proxy Scraper (fast)
+
+🌐 Supports HTTP, HTTPS, SOCKS4, SOCKS5
+
+⚡ Real-time Proxy Checking
+
+📁 Saves working proxies in working_proxies.txt
+
+🔒 Authentication system (only authorized users can run)
+
+💻 Cross-platform (Linux, Windows, macOS, Termux)
+
+
+
+🔹 Example Output
+[*] Scraping fresh proxies...
+[*] Total proxies found: 450
+[*] Checking proxies (multi-threaded)...
+[+] Working proxies saved: working_proxies.txt
+
+
+
+
+🔹 Notes
+
+This tool is for educational & ethical use only.
+
+Do not use it for illegal purposes.
+
+Best use-case: Bug Bounty, Penetration Testing, Secure Browsing.
+
+
+👑 Author
+
+Owner: GHOST x KAMAL
+
+Team: Bangladesh Cyber Troops
+
+
+---
